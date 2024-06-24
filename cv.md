@@ -1,6 +1,6 @@
 # Maroz Anton
 - Frontend Developer (Beginner)
-- commmit 1
+- commmit 2
 
 ## Contacts
 - **Locaation:** Belarus, Homel
